@@ -7,3 +7,5 @@ współtworzone z Jakubem Firlejem
 
 Projekt zaliczeniowy zrealizowany w ramach przedmiotu Przeszukiwanie i Optymalizacja (POP). 
 Zadaniem było zbadanie wpływu, jaki na działanie mutacyjnego algorytmu ewolucyjnego będzie miała zmienność populacji według różnych wzorów.
+
+Program do działania wymaga pobrania zestawu funkcji benchmarkowych CEC2017.
